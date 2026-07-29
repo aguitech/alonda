@@ -1,4 +1,4 @@
-// Alonda Gallery — 10 portraits
+// Alonda Gallery — 60 published portraits
 const SHOTS = [
   // Tier 1 — the original 10
   { file: 'assets/images/01_beach_bikini.jpeg', label: 'Bikini · Playa' },
@@ -46,6 +46,27 @@ const SHOTS = [
   { file: 'assets/images/38_yoga_mat.jpeg', label: 'Yoga mat' },
   { file: 'assets/images/39_boxing_training.jpeg', label: 'Boxeo · Training' },
   { file: 'assets/images/40_cycling_urban.jpeg', label: 'Ciclismo urbano' },
+  // Tier 5 · Oficios, historia, aventura y astros
+  { file: 'assets/images/61_volcanologist_lava.jpg', label: 'Vulcanóloga · Lava' },
+  { file: 'assets/images/62_falconer_steppe.jpg', label: 'Cetrera · Estepa' },
+  { file: 'assets/images/63_glassblower_venice.jpg', label: 'Vidriera · Murano' },
+  { file: 'assets/images/64_deep_sea_diver.jpg', label: 'Buceo científico · Arrecife' },
+  { file: 'assets/images/65_hot_air_balloonist.jpg', label: 'Piloto de globo · Capadocia' },
+  { file: 'assets/images/66_archaeologist_petra.jpg', label: 'Arqueóloga · Petra' },
+  { file: 'assets/images/67_orchestra_conductor.jpg', label: 'Directora de orquesta' },
+  { file: 'assets/images/68_beekeeper_lavender.jpg', label: 'Apicultora · Lavanda' },
+  { file: 'assets/images/69_northern_lights_guide.jpg', label: 'Guía ártica · Aurora' },
+  { file: 'assets/images/70_ceramic_artist.jpg', label: 'Ceramista · Taller' },
+  { file: 'assets/images/71_renaissance_court.jpg', label: 'Corte renacentista' },
+  { file: 'assets/images/72_rococo_masquerade.jpg', label: 'Mascarada rococó' },
+  { file: 'assets/images/73_art_deco_aviatrix.jpg', label: 'Aviadora · Art Déco' },
+  { file: 'assets/images/74_viking_shieldmaiden.jpg', label: 'Escudera vikinga' },
+  { file: 'assets/images/75_mongol_horse_archer.jpg', label: 'Arquera mongola' },
+  { file: 'assets/images/76_aztec_astronomer.jpg', label: 'Astrónoma azteca' },
+  { file: 'assets/images/77_fire_elemental.jpg', label: 'Elemento · Fuego' },
+  { file: 'assets/images/78_air_elemental.jpg', label: 'Elemento · Aire' },
+  { file: 'assets/images/79_lunar_empress.jpg', label: 'Emperatriz lunar' },
+  { file: 'assets/images/80_solar_oracle.jpg', label: 'Oráculo solar' },
 ];
 
 const gallery = document.getElementById('gallery');
