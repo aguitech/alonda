@@ -22,6 +22,30 @@ const SHOTS = [
   { file: 'assets/images/18_brunch_aesthetic.jpeg', label: 'Brunch · Aesthetic' },
   { file: 'assets/images/19_salsa_dancing.jpeg', label: 'Salsa · Baile mexicano' },
   { file: 'assets/images/20_rooftop_night.jpeg', label: 'Rooftop night · Ciudad' },
+  // Tier 3A · Editorial / Moda
+  { file: 'assets/images/21_wedding_dress.jpeg', label: 'Wedding dress · Novia' },
+  { file: 'assets/images/22_power_suit.jpeg', label: 'Power suit · Ejecutiva' },
+  { file: 'assets/images/23_minimalist_studio.jpeg', label: 'Minimalist · Studio' },
+  { file: 'assets/images/24_boho_crochet.jpeg', label: 'Boho crochet · Beach' },
+  { file: 'assets/images/25_couture_runway.jpeg', label: 'Couture · Runway' },
+  // Tier 3B · Cultura / Lifestyle
+  { file: 'assets/images/26_paris_cafe.jpeg', label: 'Café parisino' },
+  { file: 'assets/images/27_skate_park.jpeg', label: 'Skate park · Urbana' },
+  { file: 'assets/images/28_art_museum.jpeg', label: 'Museo de arte' },
+  { file: 'assets/images/29_train_station.jpeg', label: 'Estación de tren' },
+  { file: 'assets/images/30_sunrise_rooftop.jpeg', label: 'Amanecer · Rooftop' },
+  // Tier 3C · México lindo
+  { file: 'assets/images/31_tehuana_oaxaquena.jpeg', label: 'Tehuana · Oaxaqueña' },
+  { file: 'assets/images/32_catrina_dia_muertos.jpeg', label: 'Catrina · Día de muertos' },
+  { file: 'assets/images/33_flower_market.jpeg', label: 'Mercado de flores' },
+  { file: 'assets/images/34_charra_sombrero.jpeg', label: 'Charra · Sombrero' },
+  { file: 'assets/images/35_frida_inspired.jpeg', label: 'Frida-inspired' },
+  // Tier 3D · Deportes / Aventura
+  { file: 'assets/images/36_surf_malibu.jpeg', label: 'Surf · Malibu' },
+  { file: 'assets/images/37_ski_aspen.jpeg', label: 'Esquí · Aspen' },
+  { file: 'assets/images/38_yoga_mat.jpeg', label: 'Yoga mat' },
+  { file: 'assets/images/39_boxing_training.jpeg', label: 'Boxeo · Training' },
+  { file: 'assets/images/40_cycling_urban.jpeg', label: 'Ciclismo urbano' },
 ];
 
 const gallery = document.getElementById('gallery');
